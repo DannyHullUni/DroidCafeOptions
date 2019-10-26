@@ -1,0 +1,4 @@
+#Sat Oct 26 19:17:40 BST 2019
+base.0=C\:\\Users\\Danny\\Desktop\\3rd Year BSc Computer Science\\Android Development\\DroidCafeOptions\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
