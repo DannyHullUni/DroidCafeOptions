@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ebf32aef447c06df9eb7edd4fda53a07\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4f757fe5ab880b2814c4e0940388c261\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ec0c87baef9f776e43d6d17194287e29\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Danny\.grad
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\ed47e36cbf3a4906235e26fb09dba75f\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7770c38ec8359cdd0f941c9838fdcb49\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5ec62f35fa2a8ba8a08da8da99776eb0\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
-INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
+INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
 	package
 		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:19:5-51
 		INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
 		INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-41:12
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:1-46:12
 		INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:21:5-39:19
+ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:21:5-44:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ebf32aef447c06df9eb7edd4fda53a07\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ebf32aef447c06df9eb7edd4fda53a07\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Danny\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4f757fe5ab880b2814c4e0940388c261\AndroidManifest.xml:25:5-29:19
@@ -96,9 +96,19 @@ ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Developm
 	android:name
 		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:35:27-74
 activity#com.example.android.droidcafeoptions.OrderActivity
-ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:9-51
+ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:9-43:20
+	android:parentActivityName
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:40:13-55
+	android:label
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:39:13-43
 	android:name
-		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:19-48
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:38:19-84
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:41:13-42:48
+	android:value
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:42:17-46
+	android:name
+		ADDED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml:41:24-70
 uses-sdk
 INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Danny\Desktop\3rd Year BSc Computer Science\Android Development\DroidCafeOptions\app\src\main\AndroidManifest.xml
